@@ -15,6 +15,8 @@ Welcome to the Adipurush Movie Sentiment Analysis repository, where emotions mee
 
 **💬 Let's Chat, Analyze, and Visualize:** Join us in conversations around the movie, dive deep into discussions, and witness how sentiment analysis paints an intriguing picture.
 
+This is based on the Machine Learning Model Implementation: **https://github.com/AkuratiHemanth/Machine_Learning_Model_Implementation_Steps **
+
 Get Involved and Spread the Sentiments
 Let's make this journey a collaborative experience! Your contributions are more than welcome. Share your thoughts, insights, and code to enrich this sentiment analysis exploration.
 
