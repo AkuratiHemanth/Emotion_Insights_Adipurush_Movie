@@ -1,4 +1,4 @@
-**Adipurush Movie Sentiment Analysis**
+**Adipurush Movie Review Insight Analysis**
 
 Welcome to the Adipurush Movie Sentiment Analysis repository, where emotions meet data-driven insights! 
 🎬✨ Dive into the captivating realm of **Natural Language Processing (NLP)** as we embark on an exhilarating journey to analyze sentiments surrounding the **Adipurush movie.**
